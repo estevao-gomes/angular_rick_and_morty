@@ -34,7 +34,7 @@ para ver uma demonstração, basta clicar no <a href="https://desafio-tecnico-fr
 
 <ol><h2>Como executar o projeto</h2>
 <li>Clone este repositório em sua máquina local usando o comando git clone https://github.com/seu_usuario/seu_repositorio.git
-<li>Acesse a pasta do projeto usando o comando cd seu_repositorio/rick-and-morty-angular</li>
+<li>Acesse a pasta do projeto usando o comando cd seu_repositorio/angular-rick-and-morty</li>
 <li>Instale as dependências do projeto usando o comando npm install ou yarn install</li>
 <li>Inicie o servidor de desenvolvimento usando o comando ng s</li>
 <li>Acesse o projeto em seu navegador através da URL http://localhost:4200</li>
