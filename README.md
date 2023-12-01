@@ -3,14 +3,14 @@ Este é um catálogo de todos os personagens do show Ricky and Morty, com divers
 
 <div style="display: grid; grid-template-columns:repeat(2, minmax(0, 1fr))">
   <h2>Web:<h2>
-  <img src="https://i.imgur.com/0BsT6DK.png" width="500"/>
-  <img src="https://i.imgur.com/yAHKDvU.png" width="500"/>
+  <img src="https://i.imgur.com/BrTykQU.png" width="500"/>
+  <img src="https://i.imgur.com/wnjGLdN.png" width="500"/>
   <h2>Mobile:</h2>
   <img src="https://i.imgur.com/1H5Wj4T.png" width="300"/>
   <img src="https://i.imgur.com/8GDd4pO.png" width="300"/>
 </div>
 
-Este projeto foi criado com Next.js 13 e TypeScript e consome a API do Rick and Morty (https://rickandmortyapi.com/documentation/).
+Este projeto foi criado com Angular versão 15 e TypeScript e consome a API do Rick and Morty (https://rickandmortyapi.com/documentation/).
 
 para ver uma demonstração, basta clicar no <a href="https://desafio-tecnico-front.vercel.app/">link<a/>.
 
